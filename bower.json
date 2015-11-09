@@ -1,0 +1,20 @@
+{
+  "name": "etchtrak",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Deepan Muruan <deep.mgn@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/deepanmgn/etchtrak",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
